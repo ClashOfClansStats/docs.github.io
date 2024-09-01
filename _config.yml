@@ -9,10 +9,10 @@ url: https://docs.github.io/ClashOfClansStats/docs.github.io
 enable_copy_code_button: true
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Github: https://github.com/ClashOfClansStats/main
 
-  nav_external_links:
-  - title: InstaHost on GitHub
+nav_external_links:
+  - title: Clash of Clans Stats on Github
     url: https://github.com/ClashOfClansStats/main
     hide_icon: false # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: True # set to true to open this link in a new tab - defaults to false
