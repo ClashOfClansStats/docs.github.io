@@ -28,6 +28,7 @@ The {PlayerTag} will be stored in a SQLite database called 'storage.db' to be ac
 # Disconnect a Clash of Clans Base
 
 In a server where the bot is active, type this commands
-```
-/clashrembase
-```
+<image src="https://raw.githubusercontent.com/ClashOfClansStats/docs.github.io/1abd12e6fe7230e002f47de179113d3931e66d2e/images/commands/login/clashrembase.png">
+</image>
+
+The {PlayerTag} will be removed from the database
